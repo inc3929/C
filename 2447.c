@@ -1,6 +1,7 @@
 #define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
 #include <stdio.h>
+
 /*
 예시에서 공백이 나오는 부분을 좌표로 생각해보면 (1,1) (4,1) (7,1) ~ (3,3) 등등 양쪽좌표가 모두 3으로 나눠서 확인
 그리고 N을 3으로 또 나눠 계속 재귀적으로 확인 
